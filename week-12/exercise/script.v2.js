@@ -21,3 +21,8 @@ for (var i = 0;) {
   var value = students[i];
   console.log(i + ': ' + students[i]);
 }
+
+function multiply(num1,num2) {
+  var result = num1 * num2;
+  return console.log(result);
+}
